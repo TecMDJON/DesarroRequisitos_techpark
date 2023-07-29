@@ -1,3 +1,7 @@
+#Fork de  Gwolner/techpark   empleado para la ejemplificación de Desarrollo de requisitos de un sistema que satisfaga las necesidades de negocio
+
+
+
 # Techpark - Estacionamento Inteligente <img src="logo/mysql.png" width="80" height="40" align="right">
 
 > Atividade da disciplina Análise e Projeto de Sistemas em que  foi proposto pela profª [Aida Araújo Ferreira](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4776702E0) uma situação-problema, bem como sua solução, afim de que sejam elaborados o diagrama UML de Caso de Uso, o Modelo Relacional e o BD MySQL.
