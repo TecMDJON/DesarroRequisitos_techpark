@@ -1,5 +1,6 @@
-# Fork de  Gwolner/techpark   empleado para la ejemplificación de Desarrollo de requisitos de un sistema que satisfaga las necesidades de negocio
+# Ejemplificación de Desarrollo de requisitos de un sistema que satisfaga las necesidades de negocio.
 
+## Fork de  Gwolner/techpark 
 
 
 # Techpark - Estacionamento Inteligente <img src="logo/mysql.png" width="80" height="40" align="right">
