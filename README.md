@@ -1,4 +1,4 @@
-#Fork de  Gwolner/techpark   empleado para la ejemplificación de Desarrollo de requisitos de un sistema que satisfaga las necesidades de negocio
+# Fork de  Gwolner/techpark   empleado para la ejemplificación de Desarrollo de requisitos de un sistema que satisfaga las necesidades de negocio
 
 
 
